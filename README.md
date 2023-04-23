@@ -4,3 +4,4 @@ In mathematics, the Fibonacci sequence is a sequence in which each number is the
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144.
 
+![Fibonacci_Spiral svg](https://user-images.githubusercontent.com/117395930/233848874-b01ded27-4c9a-490c-999f-7708a9c64276.png)
